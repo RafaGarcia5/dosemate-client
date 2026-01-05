@@ -1,0 +1,22 @@
+{
+    "search" : "Busca por nombre, fecha o dosis",
+    "withoutInfo" : "No hay dosis planeadas",
+    "update" : {
+        "title" : "Confirma dosis tomada",
+        "message1" : "¿Ya has tomado tu ",
+        "message2" : " dosis de ",
+        "button" : "Ok"
+    },
+    "info" : {
+        "schedule" : "Programado",
+        "treatment" : "Tratamiento",
+        "dosage" : "Dosis",
+        "interval" : "Horas de intervalo"
+    },
+    "card" : {
+        "taked" : "Tomado el",
+        "not_taken" : "Dosis aún no tomada",
+        "taken" : "Tomado",
+        "take" : "Tomar"
+    }
+}

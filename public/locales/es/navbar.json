@@ -1,0 +1,10 @@
+{
+    "mainPage" : "Inicio",
+    "schedule" : "Cronograma",
+    "treatment" : "Tratamientos",
+    "caregivers" : "Cuidadores",
+    "patients" : "Pacientes",
+    "profile" : "Perfil",
+    "logout" : "Cerrar Sesión",
+    "greeting" : "Hola"
+}

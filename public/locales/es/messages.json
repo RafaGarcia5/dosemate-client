@@ -1,0 +1,12 @@
+{
+    "assoc" : {
+        "delete" : {
+            "success" : "Asociado eliminado",
+            "fail" : "No se pudo eliminar el asociado"
+        },
+        "add" : {
+            "success" : "Añadido exitosamente",
+            "fail" : "La creación de la relación falló"
+        }
+    }
+}

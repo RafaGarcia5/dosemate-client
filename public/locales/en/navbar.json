@@ -1,0 +1,10 @@
+{
+    "mainPage" : "Main Page",
+    "schedule" : "Schedule",
+    "treatment" : "Treatment",
+    "caregivers" : "Caregivers",
+    "patients" : "Patients",
+    "profile" : "Profile",
+    "logout" : "Logout",
+    "greeting" : "Hello"
+}

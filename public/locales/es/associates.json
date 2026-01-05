@@ -1,0 +1,25 @@
+{
+    "back" : "Regresar",
+    "search" : "Busca por nombre, o correo",
+    "patient" : "Paciente",
+    "caregiver" : "Cuidador",
+    "withoutInfo" : "Sin asociados",
+    "total" : "Total de asociados",
+    "delete" : {
+        "title" : "Eliminar asociado",
+        "message" : "¿Estas seguro de eliminar a "
+    },
+    "addAssoc" : {
+        "title" : "Agregar Asociado",
+        "message" : "Pregunta por el id de tu asociado y ponlo en el formulario.",
+        "id" : "Id"
+    },
+    "card" : {
+        "email" : "Correo",
+        "age" : "Edad",
+        "gender" : "Genero",
+        "male" : "Masculino",
+        "female" : "Femenino",
+        "doctor" : "Doctor"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "back" : "Back",
+    "search" : "Search by name, or email",
+    "patient" : "Patient",
+    "caregiver" : "Caregiver",
+    "withoutInfo" : "Without associates",
+    "total" : "Total of associates",
+    "delete" : {
+        "title" : "Delete associate",
+        "message" : "Are you sure yo want to remove "
+    },
+    "addAssoc" : {
+        "title" : "Add Associate",
+        "message" : "Ask for your associate's id and put it in the form.",
+        "id" : "Id"
+    },
+    "card" : {
+        "email" : "Email",
+        "age" : "Age",
+        "gender" : "Gender",
+        "male" : "Male",
+        "female" : "Female",
+        "doctor" : "Doctor"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "search" : "Search by name, date or comment",
+    "withoutInfo" : "Without treatments",
+    "delete" : {
+        "title" : "Delete treatment",
+        "message" : "Are you sure you want to remove "
+    },
+    "title" : {
+        "edit" : "Edit treatment",
+        "new" : "New treatment"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "button" : {
+        "add" : "Agregar",
+        "delete" : "Eliminar",
+        "cancel" : "Cancelar",
+        "details" : "Detalles",
+        "update" : "Actualizar"
+    },
+    "date" : {
+        "start_date" : "Fecha de inicio",
+        "end_date" : "Fecha de fin",
+        "starts_in" : "Empieza en {{count}} dias",
+        "ended_in" : "Terminó hace {{count}} dias",
+        "ends_today" : "Termina hoy",
+        "remaining_days" : "Quedan {{count}} días",
+        "datetime_user": "a las {{time}}"
+    },
+    "status": {
+        "all" : "Todo",
+        "active" : "Activo",
+        "inactive" : "Inactivo",
+        "upcoming" : "Proximo",
+        "no_info" : "Sin información"
+    },
+    "form" : {
+        "name" : "Nombre",
+        "comment" : "Comentario"
+    }
+}

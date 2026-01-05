@@ -1,0 +1,25 @@
+{
+    "patient": {
+        "title": "Tus gráficos diarios",
+        "dosesChartTitle": "Seguimiento de dosis diarias",
+        "noDosesInfo": "Sin información de dosis",
+        "treatmentChartTitle": "Estados de los tratamientos",
+        "noTreatmentsInfo": "No hay tratamientos disponibles",
+        "selectedDateLabel": "Seleccionar fecha",
+        "selectedMonthLabel": "Seleccionar mes",
+        "doseChart" : {
+            "taken" : "Tomado",
+            "notTaken" : "No tomado"
+        }
+    },
+    "caregiver": {
+        "title": "Estadísticas de asociados",
+        "genderChartTitle": "Distribución por género",
+        "ageChartTitle": "Distribución por edad",
+        "noAssociatesInfo": "No hay asociados disponibles",
+        "genderChart": {
+            "male" : "Masculino",
+            "female": "Femenino"
+        }
+    }
+}

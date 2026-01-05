@@ -1,0 +1,20 @@
+{
+  "title": "Registra una cuenta",
+  "name": "Nombre",
+  "birthDate": "Fecha de nacimiento",
+  "gender": "Género",
+  "male": "Hombre",
+  "female": "Mujer",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "old_password": "Contraseña Anterior",
+  "new_password": "Nueva Contraseña",
+  "role": "Rol",
+  "patient": "Paciente",
+  "caregiver": "Cuidador",
+  "doctor": "Médico Asignado",
+  "register": "Registrarse",
+  "update": "Actualizar perfil",
+  "haveAccount": "¿Ya tienes una cuenta?",
+  "login": "Iniciar sesión"
+}

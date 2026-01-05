@@ -1,0 +1,12 @@
+{
+    "search" : "Busca por nombre, fecha, o comentario",
+    "withoutInfo" : "Sin tratamientos",
+    "delete" : {
+        "title" : "Eliminar tratamiento",
+        "message" : "¿Estás seguro de eliminar "
+    },
+    "title" : {
+        "edit" : "Editar tratamiento",
+        "new" : "Nuevo tratamiento"
+    }
+}

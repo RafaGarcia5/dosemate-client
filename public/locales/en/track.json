@@ -1,0 +1,22 @@
+{
+    "search" : "Search by name, date or dosage",
+    "withoutInfo" : "No doses planned",
+    "update" : {
+        "title" : "Confirm taken dose",
+        "message1" : "Have you already taken your ",
+        "message2" : " dose of ",
+        "button" : "Ok"
+    },
+    "info" : {
+        "schedule" : "Schedule",
+        "treatment" : "Treatment",
+        "dosage" : "Dosage",
+        "interval" : "Interval hours"
+    },
+    "card" : {
+        "taked" : "Taken on",
+        "not_taken" : "Dosage still not taken",
+        "taken" : "Taken",
+        "take" : "Take"
+    }
+}

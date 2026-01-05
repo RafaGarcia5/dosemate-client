@@ -1,0 +1,17 @@
+{
+    "withoutInfo" : "Without medicaments",
+    "delete" : {
+        "title" : "Delete medicament",
+        "message" : "Are you sure you want to remove "
+    },
+    "info":{
+        "name" : "Name",
+        "dosage" : "Dosage",
+        "interval" : "Interval hours",
+        "comment" : "Comment"
+    },
+    "title":{
+        "edit" : "Edit medicament",
+        "new" : "New medicament"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "assoc" : {
+        "delete" : {
+            "success" : "Associate removed",
+            "fail" : "Failed to remove associate"
+        },
+        "add" : {
+            "success" : "Successfully added",
+            "fail" : "Relation creation failed"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Register an account",
+  "name": "Name",
+  "birthDate": "Date of birth",
+  "gender": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "email": "Email",
+  "password": "Password",
+  "old_password": "Old Password",
+  "new_password": "New Password",
+  "role": "Role",
+  "patient": "Patient",
+  "caregiver": "Caregiver",
+  "doctor": "Assigned Doctor",
+  "register": "Register",
+  "update": "Update profile",
+  "haveAccount": "Do you have an account?",
+  "login": "Login"
+}

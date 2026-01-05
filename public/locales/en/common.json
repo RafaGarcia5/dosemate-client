@@ -1,0 +1,29 @@
+{
+    "button" : {
+        "add" : "Add",
+        "delete" : "Delete",
+        "cancel" : "Cancel",
+        "details" : "Details",
+        "update" : "Update"
+    },
+    "date" : {
+        "start_date" : "Start date",
+        "end_date" : "End date",
+        "starts_in" : "Starts in {{count}} days",
+        "ended_in" : "Ended {{count}} days ago",
+        "ends_today" : "Ends today",
+        "remaining_days" : "Remaining {{count}} days",
+        "datetime_user": "at {{time}}"
+    },
+    "status": {
+        "all" : "All",
+        "active" : "Active",
+        "inactive" : "Inactive",
+        "upcoming" : "Upcoming",
+        "no_info" : "No Information"
+    },
+    "form" : {
+        "name" : "Name",
+        "comment" : "Comment"
+    }
+}

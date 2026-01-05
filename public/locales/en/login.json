@@ -1,0 +1,9 @@
+{
+    "welcome": "Welcome back!",
+    "loginToYourAccount": "Login to your account",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "registerPrompt": "Don't have an account?",
+    "register": "Register"
+}
