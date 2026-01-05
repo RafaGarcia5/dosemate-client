@@ -1,0 +1,37 @@
+.register-container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    gap: 1.5;
+}
+
+.register-form{
+    width: 40%;
+}
+
+.register-title, .register-with-account{
+    box-sizing: border-box;
+}
+
+.register-title{
+    padding-bottom: 10px;
+}
+
+.register-with-account{
+    padding-top: 10px;
+}
+
+.register-form-space{
+    margin-bottom: 8px !important;
+}
+
+.register-switch-language{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 1000;
+}
